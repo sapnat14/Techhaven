@@ -1,0 +1,17 @@
+/TechHaven
+│
+├── /media
+│   ├── hero-image.jpg
+│   ├── product1.jpg
+│   ├── product2.jpg
+│   ├── product3.jpg
+│   ├── map-location.png
+│
+├── index.html
+├── products.html
+├── product-details.html
+├── contact.html
+├── cart.html
+├── styles.css
+├── readme.txt
+
